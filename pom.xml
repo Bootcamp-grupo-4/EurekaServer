@@ -11,7 +11,7 @@
 	<groupId>com.bootcamp</groupId>
 	<artifactId>capticket</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>capticket</name>
+	<name>CapTicket-eureka</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
